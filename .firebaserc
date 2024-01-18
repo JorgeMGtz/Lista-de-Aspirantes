@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lista-aspirantes4": {
+      "hosting": {
+        "lista-aspirantes4": [
+          "lista-aspirantes4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lista-aspirantes4"
+  }
+}
